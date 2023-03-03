@@ -17,3 +17,5 @@ Personal Finance Manager
 - Ingests csv of bank statements and autolabels transactions into set categories (partial suppport for Indian and US banks now)
 - Show user screen with summary for a given time period (month or year)
 - Anonymiser to remove PII from data and to mux multiple transactions for the training module
+
+Name inspiration from [Bulla Seals](https://en.wikipedia.org/wiki/Bulla_(seal))
